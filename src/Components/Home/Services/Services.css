@@ -1,0 +1,22 @@
+.Services{
+   
+}
+.Services h2{
+   font-size: 40px;
+   font-weight: 700;
+   color: rgb(68, 68, 68);
+}
+.Services p{
+    padding-top: 20px;
+   font-size: 16px;
+   font-weight: 500;
+   color: rgb(68, 68, 68);
+}
+.card-title{
+   font-weight: 700;
+}
+
+.ser-img{
+   width: 100% !important;
+   height: auto !important;
+}

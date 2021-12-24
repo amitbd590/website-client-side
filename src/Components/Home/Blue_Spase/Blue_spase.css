@@ -1,0 +1,7 @@
+.Blue_spase{
+    height: 200px;
+    background-color: #419FBB;
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+}
