@@ -1,7 +1,7 @@
 
 
 
-<h2>Web site link is : https://festive-hodgkin-7386fb.netlify.app </h2>
+<h2>Web site link is : https://relaxed-carson-6812b9.netlify.app/ </h2>
 
 <br>
 <br>
